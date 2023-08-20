@@ -1,7 +1,7 @@
 # EJPT_Prep
 Hey N1NJ10 👋
 
-This repo contains Machines and Notes for practicing for EJPTv1/2 exam and if you wanna to intract with a community friends you can Join to this <a href="https://t.me/CTFARAB">Telegram channel</a> 
+This repo contains Machines and Notes for practicing for EJPTv1/2 exam and if you wanna to intract with a community friends you can Join to this <a href="https://t.me/N1NJ10/172">Telegram channel</a> 
 
 
 [![Discord](https://img.shields.io/discord/716165691383873536?style=plastic&logo=discord)](https://discord.gg/5y3Z4QkF)
