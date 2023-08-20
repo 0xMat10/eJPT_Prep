@@ -2,6 +2,13 @@
 Hey N1NJ10 👋
 
 This repo contains Machines and Notes for practicing for EJPTv1/2 exam and if you wanna to intract with a community friends you can Join to this <a href="https://t.me/CTFARAB">Telegram channel</a> 
+
+
+[![Discord](https://img.shields.io/discord/716165691383873536?style=plastic&logo=discord)](https://discord.gg/5y3Z4QkF)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/fadymoheb/)
+[![Blog](https://img.shields.io/badge/Blog-Read%20me-orange?style=plastic&logo=wordpress)](https://n1nj10.gitbook.io/n1nj10/)
+
+
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" align="center" width="1000" height="3">
 <img src="https://i.pinimg.com/originals/7e/16/87/7e1687f756d6e7b2f51e3befe89d4928.png" align="center">
 
