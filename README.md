@@ -1,5 +1,11 @@
 # EJPT_Prep
-Hey N1NJ10 , This repocontains Machines and Notes for practicing for EJPTv1/2 exam and if you wanna to intract with a community friends you can Join to this <a href="https://t.me/CTFARAB">Telegram channel</a>   
+Hey N1NJ10 👋
+
+This repo contains Machines and Notes for practicing for EJPTv1/2 exam and if you wanna to intract with a community friends you can Join to this <a href="https://t.me/CTFARAB">Telegram channel</a> 
+<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" align="center" width="1000" height="3">
+<img src="https://i.pinimg.com/originals/7e/16/87/7e1687f756d6e7b2f51e3befe89d4928.png" align="center">
+
+
 
 
 ## Linux Fundamentals
@@ -24,7 +30,6 @@ Hey N1NJ10 , This repocontains Machines and Notes for practicing for EJPTv1/2 ex
 
 * [TryHackMe | Regular expressions ](https://tryhackme.com/room/catregex)
 
-<img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="500" height="3">
 
 ## Windows Fundamentals
 
