@@ -1,4 +1,4 @@
-# EJPT_Prep
+# eJPT_Prep
 Hey N1NJ10 👋
 
 This repo contains Machines and Notes for practicing for EJPTv1/2 exam and if you wanna to intract with a community friends you can Join to this <a href="https://t.me/N1NJ10/172">Telegram channel</a> 
