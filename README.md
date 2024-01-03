@@ -6,8 +6,8 @@ This repo contains Machines and Notes for practicing for EJPTv1/2 exam and if yo
 
 [![Discord](https://img.shields.io/discord/716165691383873536?style=plastic&logo=discord)](https://discord.gg/5y3Z4QkF)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/fadymoheb/)
-[![Blog](https://img.shields.io/badge/Blog-Read%20me-orange?style=plastic&logo=wordpress)](https://n1nj10.gitbook.io/n1nj10/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/discoverscripts.svg?style=social&label=Follow)](https://twitter.com/FadyMo7eb)
+[![Blog](https://img.shields.io/badge/Blog-Read%20me-orange?style=plastic&logo=wordpress)](https://n1nj10.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/discoverscripts.svg?style=social&label=Follow)](https://twitter.com/N1NJ1O)
 
 
 
